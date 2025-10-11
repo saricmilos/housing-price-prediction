@@ -1,0 +1,1 @@
+This is git project for housing price predictions
